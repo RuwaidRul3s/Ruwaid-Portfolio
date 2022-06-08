@@ -27,3 +27,22 @@ The prupose of this analysis is to see which team have higher profits and what a
 
 
 
+# [Project 3 : Analyze RAM Prices  : Project Overview](https://github.com/RuwaidRul3s/HLTV_Scrapper)
+
+##Overview 
+
+This project is about analyzing RAM (random access memory ) prices in gts.jo ( computer shop ) and see if there is difference in capacity and price .
+
+* pandas
+* matplot
+* seaborn
+* BeautifulSoup
+* requests
+
+
+![](https://github.com/RuwaidRul3s/Ruwaid_Portfolio/blob/main/images/plot1.png)
+![](https://github.com/RuwaidRul3s/Ruwaid_Portfolio/blob/main/images/plot2.png)
+
+
+
+
