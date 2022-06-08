@@ -2,6 +2,11 @@
 My-Portfolio 
 
 
+# Certificates 
+
+(https://www.udemy.com/certificate/UC-2547727e-999c-4fad-98f0-bca136f8d110/)
+
+
 # [Project 1 : Scrape Teams Data : Project Overview](https://github.com/RuwaidRul3s/HLTV_Scrapper)
 
 * create a tool that retrieves data for esport-Teams  and store them in Excel / CSV .
