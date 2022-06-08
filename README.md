@@ -12,7 +12,7 @@ My-Portfolio
 
 
 
-# [Project 1 : Analyze Invesment : Project Overview]
+# Project 1 : Analyze Invesment : Project Overview
 
 * A dashboard to extract useful insights and analyze teams (profit , KPI ,ROI ,...ect) 
 * dashboard built using PowerBI And DAX 
