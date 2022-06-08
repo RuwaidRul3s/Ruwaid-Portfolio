@@ -10,6 +10,21 @@ My-Portfolio
 
 
 
+
+
+# [Project 1 : Analyze Invesment : Project Overview]
+
+* A dashboard to extract useful insights and analyze teams (profit , KPI ,ROI ,...ect) 
+* dashboard built using PowerBI And DAX 
+
+
+
+
+
+
+
+
+
 # [Project 1 : Scrape Teams Data : Project Overview](https://github.com/RuwaidRul3s/HLTV_Scrapper)
 
 * create a tool that retrieves data for esport-Teams  and store them in Excel / CSV .
