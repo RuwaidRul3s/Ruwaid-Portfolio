@@ -22,8 +22,8 @@ This project is about analyzing  esport teams  profit after betting on them at c
 
 The prupose of this analysis is to see which team have higher profits and what are the descriptive statistics for the profit gained .
 
-![](https://github.com/RuwaidRul3s/Ruwaid_Portfolio/blob/main/images/plot1.png)
-![](https://github.com/RuwaidRul3s/Ruwaid_Portfolio/blob/main/images/plot2.png)
+![](images/plot1.png)
+![](images/plot2.png)
 
 
 
@@ -40,8 +40,8 @@ This project is about analyzing RAM (random access memory ) prices in gts.jo ( c
 * requests
 
 
-![](https://github.com/RuwaidRul3s/Ruwaid_Portfolio/blob/main/images/plot3.png)
-![](https://github.com/RuwaidRul3s/Ruwaid_Portfolio/blob/main/images/plot4.png)
+![](images/plot3.png)
+![](images/plot4.png)
 
 
 
@@ -55,7 +55,7 @@ This project is about visualizing sorting alogritm which shows the code and how 
 * c#
 * GDI+
 
-![](https://github.com/RuwaidRul3s/Ruwaid_Portfolio/blob/main/images/sort.png)
+![](images/sort.png)
 
 
 # [Project 5 :  grocery app : Project Overview](https://github.com/RuwaidRul3s/flutter-grocery-app-)
