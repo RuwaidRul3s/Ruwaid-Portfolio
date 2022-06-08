@@ -55,5 +55,7 @@ This project is about visualizing sorting alogritm which shows the code and how 
 * c#
 * GDI+
 
+![](https://github.com/RuwaidRul3s/Ruwaid_Portfolio/blob/main/images/sort.png)
+
 
 
