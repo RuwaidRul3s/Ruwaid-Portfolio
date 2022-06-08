@@ -10,7 +10,7 @@ My  Portfolio
 
 
 
-# [Project 2 : Analyze Betting Invesment : Project Overview](https://github.com/RuwaidRul3s/HLTV_Scrapper)
+# [Project 2 : Analyze Betting Invesment : Project Overview](https://github.com/RuwaidRul3s/Betting_Invesment)
 
 ##Overview 
 
