@@ -41,7 +41,7 @@ This project is about analyzing RAM (random access memory ) prices in gts.jo ( c
 
 
 ![](https://github.com/RuwaidRul3s/Ruwaid_Portfolio/blob/main/images/plot1.png)
-![](https://github.com/RuwaidRul3s/Ruwaid_Portfolio/blob/main/images/plot2.png)
+![](https://github.com/RuwaidRul3s/Ruwaid_Portfolio/blob/main/images/plot4.png)
 
 
 
