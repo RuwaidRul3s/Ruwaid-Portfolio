@@ -17,6 +17,7 @@ My-Portfolio
 * A dashboard to extract useful insights and analyze teams (profit , KPI ,ROI ,...ect) 
 * dashboard built using PowerBI And DAX 
 
+![](/images/powerbi.png)
 
 
 
@@ -25,7 +26,8 @@ My-Portfolio
 
 
 
-# [Project 1 : Scrape Teams Data : Project Overview](https://github.com/RuwaidRul3s/HLTV_Scrapper)
+
+# [Project 2 : Scrape Teams Data : Project Overview](https://github.com/RuwaidRul3s/HLTV_Scrapper)
 
 * create a tool that retrieves data for esport-Teams  and store them in Excel / CSV .
 
@@ -33,7 +35,7 @@ My-Portfolio
 
 
 
-# [Project 2 : Analyze Betting Invesment : Project Overview](https://github.com/RuwaidRul3s/Betting_Invesment)
+# [Project 3 : Analyze Betting Invesment : Project Overview](https://github.com/RuwaidRul3s/Betting_Invesment)
 
 ##Overview 
 
@@ -50,7 +52,7 @@ The prupose of this analysis is to see which team have higher profits and what a
 
 
 
-# [Project 3 : Analyze RAM Prices  : Project Overview](https://github.com/RuwaidRul3s/RAM-Analyzer)
+# [Project 4 : Analyze RAM Prices  : Project Overview](https://github.com/RuwaidRul3s/RAM-Analyzer)
 
 ##Overview 
 
@@ -69,7 +71,7 @@ This project is about analyzing RAM (random access memory ) prices in gts.jo ( c
 
 
 
-# [Project 4 : Viusalize Sorting Alogrithm : Project Overview](https://github.com/RuwaidRul3s/Algorithm_Visualization)
+# [Project 5 : Viusalize Sorting Alogrithm : Project Overview](https://github.com/RuwaidRul3s/Algorithm_Visualization)
 
 ##Overview 
 
@@ -81,7 +83,7 @@ This project is about visualizing sorting alogritm which shows the code and how 
 ![](/images/sort.png)
 
 
-# [Project 5 :  grocery app : Project Overview](https://github.com/RuwaidRul3s/flutter-grocery-app-)
+# [Project 6 :  grocery app : Project Overview](https://github.com/RuwaidRul3s/flutter-grocery-app-)
 
 ##Overview 
 
