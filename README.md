@@ -27,7 +27,7 @@ The prupose of this analysis is to see which team have higher profits and what a
 
 
 
-# [Project 3 : Analyze RAM Prices  : Project Overview](https://github.com/RuwaidRul3s/HLTV_Scrapper)
+# [Project 3 : Analyze RAM Prices  : Project Overview](https://github.com/RuwaidRul3s/RAM-Analyzer)
 
 ##Overview 
 
