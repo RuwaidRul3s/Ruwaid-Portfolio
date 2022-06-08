@@ -46,3 +46,14 @@ This project is about analyzing RAM (random access memory ) prices in gts.jo ( c
 
 
 
+# [Project 4 : Viusalize Sorting Alogrithm : Project Overview](https://github.com/RuwaidRul3s/Algorithm_Visualization)
+
+##Overview 
+
+This project is about visualizing sorting alogritm which shows the code and how each step is performed until the data is sorted 
+
+* c#
+* GDI+
+
+
+
