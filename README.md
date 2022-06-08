@@ -21,6 +21,7 @@ This project is about analyzing  esport teams  profit after betting on them at c
 * seaborn
 
 ![](https://github.com/RuwaidRul3s/Ruwaid_Portfolio/blob/main/images/plot1.png)
+![](https://github.com/RuwaidRul3s/Ruwaid_Portfolio/blob/main/images/plot2.png)
 
 
 
