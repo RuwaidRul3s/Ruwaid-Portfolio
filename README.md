@@ -4,7 +4,10 @@ My-Portfolio
 
 # Certificates 
 
-(https://www.udemy.com/certificate/UC-2547727e-999c-4fad-98f0-bca136f8d110/)
+* [Complete Introduction to Microsoft Power BI](https://www.udemy.com/certificate/UC-8fb2c60f-007f-4441-9fba-05c787c8e1cb/)
+* [Mastering Dax Calculations in Power BI](https://www.udemy.com/certificate/UC-bcb868dc-bd53-4b34-a9d7-018f53083a4c/)
+* [The Complete 2021 Flutter Development Bootcamp With Dart](https://www.udemy.com/certificate/UC-2547727e-999c-4fad-98f0-bca136f8d110/)
+
 
 
 # [Project 1 : Scrape Teams Data : Project Overview](https://github.com/RuwaidRul3s/HLTV_Scrapper)
