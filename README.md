@@ -20,6 +20,7 @@ This project is about analyzing  esport teams  profit after betting on them at c
 * matplot
 * seaborn
 
+![](https://github.com/RuwaidRul3s/Ruwaid_Portfolio/blob/main/images/plot1.png)
 
 
 
