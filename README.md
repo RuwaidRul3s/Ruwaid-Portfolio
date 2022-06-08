@@ -22,7 +22,7 @@ This project is about analyzing  esport teams  profit after betting on them at c
 
 The prupose of this analysis is to see which team have higher profits and what are the descriptive statistics for the profit gained .
 
-![](https://github.com/RuwaidRul3s/Ruwaid_Portfolio/blob/main/images/plot1.png)
+![](https://github.com/RuwaidRul3s/Ruwaid_Portfolio/blob/main/images/plot3.png)
 ![](https://github.com/RuwaidRul3s/Ruwaid_Portfolio/blob/main/images/plot2.png)
 
 
